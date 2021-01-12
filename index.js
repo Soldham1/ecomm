@@ -23,6 +23,6 @@ app.post("/", (req, res) => {
   res.send("Account created");
 });
 
-app.listen(3003, () => {
+app.listen(3000, () => {
   console.log("API running");
 });
