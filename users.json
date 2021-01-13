@@ -1,0 +1,22 @@
+[
+  {
+    "email": "s.oldham1204@gmail.com",
+    "password": "123456",
+    "id": "2df94a92"
+  },
+  {
+    "email": "sold@gmail.com",
+    "password": "123456",
+    "id": "8d54e00c"
+  },
+  {
+    "email": "test@test.com",
+    "password": "96651ff459385ecff46d7be399727d06f217a62db9b70199cc5842f2a4b2545a2904ddf1708001bab2e85eb7c20a74cc52b5921aab779e83697b58d94131ed2f.b2d1f5fa8cf067a3",
+    "id": "36831129"
+  },
+  {
+    "email": "j.cena@wwe.com",
+    "password": "f8691d3da1ec778ba7d59bf5ffd98f06f7c07dd47cb5b207ab06b2e03e905d924980b6a7455d2010f04405cf18c5218dfcd7211382d6075187f7831a2cd31003.e86748bd381d50f3",
+    "id": "b863f08c"
+  }
+]
