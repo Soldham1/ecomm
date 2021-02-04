@@ -20,8 +20,13 @@
     "id": "5eee6331"
   },
   {
+    "email": "test2@test.com",
+    "password": "9a759e9273048caa8373110a8370b4261e7fecdb90c98d27b5bd567fb098484238948bf290dc30302218ed3aa3c6a3c149815166b6b2dfb8d22e5069e89601c2.ef28fa7fb2044be5",
+    "id": "ba10d790"
+  },
+  {
     "email": "soldham1204@gmail.com",
-    "password": "4bf1f5d070562166565a840f3900b5111a312779f967d65cda7843af70b72679ba07acef83c9ca73372c36d3c628b87a066194cf153b7ce5ad0b2c47e3e0ff7b.88577d1457fe1502",
-    "id": "666789c0"
+    "password": "5a27e033e29b2deaeb8dc4d6ac57c90ce944c4ceef96161a1a77dd4c087f6694f911473d8e0f4985e81fa5d17a1bdae48cc79baf3056728793d30f4f569d66e6.07e047184ccf7296",
+    "id": "eab46b19"
   }
 ]
